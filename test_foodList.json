@@ -1,0 +1,30 @@
+{
+  "code": 1,
+  "msg": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "apple",
+      "type": "1",
+      "address": "abc",
+      "rating": 10,
+      "price": 100,
+    },
+    {
+      "id": 2,
+      "name": "banana",
+      "type": "2",
+      "address": "def",
+      "rating": 20,
+      "price": 200,
+    },
+    {
+      "id": 3,
+      "name": "cherry",
+      "type": "3",
+      "address": "ghi",
+      "rating": 30,
+      "price": 300,
+    }
+  ]
+}
